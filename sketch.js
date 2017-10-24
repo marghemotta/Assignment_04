@@ -1,4 +1,4 @@
-var colbg = '#fff';
+var colbg = 250;
 var colstroke = 240;
 var coltext = 200;
 var colore = '#7ccbd5';
@@ -111,7 +111,7 @@ function mouseClicked() {
   } else if (mouseX > width/2.1 && mouseX<width/1.9 && mouseY>height/14 && mouseY<height/7) {
 
     colstroke = 240;
-    colbg = '#fff';
+    colbg = 250;
     colangle = '#72d3c1';
     coltext = 200;
     colore = '#7ccbd5';
